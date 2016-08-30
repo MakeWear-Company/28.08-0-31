@@ -1,1 +1,1 @@
-<? phpinfi('hello world!!! 22222'); ?>
+<? phpinfi('new commit 23:50'); ?>
